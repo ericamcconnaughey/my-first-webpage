@@ -1,0 +1,28 @@
+div {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: right;
+}
+
+h1 {
+  color: teal;
+  text-align: right;
+}
+
+h3 {
+  font-weight: lighter;
+  text-align: right;
+}
+
+p {
+  font-family: sans-serif;
+
+}
+
+ul; ol {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+li {
+  font-style: italic;
+}
